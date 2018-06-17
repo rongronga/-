@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" type="text/css"  href="style3.css">
+</head>
+<body> 
+<table frame="box">
+<tr frame="box">
+<th colspan="2" class="color1">简历</th>
+</tr>
+<tr frame="box">
+<td class="color2">基本信息</td>
+<td>姓名&nbsp&nbsp张三&nbsp&nbsp&nbsp性别&nbsp男&nbsp&nbsp&nbsp应聘职位&nbspWeb前端工程师</td>
+</tr>
+<tr frame="box">
+<td class="color2">联系方式</td>
+<td>手机&nbsp12312341234&nbsp&nbsp&nbspEmail&nbspjoinefe@baidu.com&nbsp&nbsp&nbsp个人主页&nbspGithub</td>
+</tr>
+<tr frame="box">
+<td class="color2">能力描述</td>
+<td>
+<p>技术能力熟练掌握HTML,CSS,JavaScript</p>
+<p>综合能力良好的沟通，主动积极，努力勤奋</p>
+</td>
+</tr>
+<tr frame="box">
+<td class="color2">教育经历</td>
+<td>本科</br>百度前段技术学院小薇学院</br>研究生</br>百度前端技术学院大斌学院</td>
+</tr>
+<tr frame="box">
+<td class="color2">项目经历</td>
+<td>小度小度</br>作为前端工程师角色参与了ABC组件的开发</br>SAN&nbspDoc编写</td>
+</tr>
+</table>
+</body>
+</html>
